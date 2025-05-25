@@ -2,7 +2,7 @@
 // Database configuration
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
-define('DB_PASS', 'paul12wako'); 
+define('DB_PASS', ''); 
 define('DB_NAME', 'judging_system');
 
 /**
